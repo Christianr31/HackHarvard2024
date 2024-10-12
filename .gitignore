@@ -24,3 +24,5 @@ test.wav
 __pycache__
 
 *.png
+
+*.keras
