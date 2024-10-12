@@ -11,3 +11,6 @@ dist
 stats.html
 
 .eslintcache
+
+# data directory due to the large size of the data
+data
