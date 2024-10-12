@@ -14,3 +14,11 @@ stats.html
 
 # data directory due to the large size of the data
 data
+
+test
+
+train
+
+test.wav
+
+__pycache__

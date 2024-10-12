@@ -72,8 +72,8 @@ test_features = []
 test_labels = []
 
 # Define the required number of samples
-train_samples_per_category = 100
-test_samples_per_category = 200
+train_samples_per_category = 500
+test_samples_per_category = 100
 max_length = 200  # Define a fixed length for the spectrograms
 
 # Function to check if all categories have reached their maximum counts
